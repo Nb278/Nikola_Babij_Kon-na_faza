@@ -1,0 +1,32 @@
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski_sistem.Form1.resources
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.csproj.GenerateResource.cache
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.AssemblyInfoInputs.cache
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.AssemblyInfo.cs
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.exe
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.deps.json
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.runtimeconfig.json
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.dll
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.pdb
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.dll
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\refint\Hotelski sistem.dll
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.pdb
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.genruntimeconfig.cache
+C:\Users\Uporabnik\Downloads\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\ref\Hotelski sistem.dll
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.exe
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.deps.json
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.runtimeconfig.json
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.dll
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\bin\Debug\net10.0-windows\Hotelski sistem.pdb
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski_sistem.Form1.resources
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.csproj.GenerateResource.cache
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.AssemblyInfoInputs.cache
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.AssemblyInfo.cs
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.csproj.CoreCompileInputs.cache
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.dll
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\refint\Hotelski sistem.dll
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.pdb
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\Hotelski sistem.genruntimeconfig.cache
+C:\Users\babij\Downloads\Hotelski sistem (1)\Hotelski sistem\Hotelski sistem\obj\Debug\net10.0-windows\ref\Hotelski sistem.dll
